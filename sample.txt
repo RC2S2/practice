@@ -1,3 +1,4 @@
 sample text file
 
 line added
+added one more line
