@@ -1,1 +1,3 @@
 sample text file
+
+line added
